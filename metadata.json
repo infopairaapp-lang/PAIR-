@@ -1,0 +1,9 @@
+{
+  "name": "Copy of PAIRĀ - Two Paths, One Life",
+  "description": "A premium, Nepal-focused marriage platform designed for serious, lifelong connections, featuring culturally aligned matching, ID verification, and interactive discovery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
